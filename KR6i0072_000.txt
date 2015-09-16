@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說文殊師利行經
+#+DATE: 2015-08-30 20:09:03.811097
+#+PROPERTY: JUAN 0
