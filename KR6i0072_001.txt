@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:03.605407
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:33
 #+TITLE: 佛說文殊師利行經
 #+PROPERTY: CBETA_ID T14n0471
 #+PROPERTY: ID KR6i0072
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 471
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0072_T_000-0512a>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0072_T_001-0512a> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.471[No.470]¶
-
- 佛說文殊尸利行經¶
+No. 471 [No. 470]¶
+佛說文殊尸利行經¶
 ¶
 隋天竺三藏豆那掘多譯¶
 
@@ -318,9 +317,9 @@ No.471[No.470]¶
 　若持是經者，
 　至真等即說，¶
 　是經功德力，
-　彼悉當成佛。」
+　彼悉當成佛。」」
 #+END_VERSE
-」¶
+¶
 
 爾時，世尊說是法本修多羅偈時，一萬雜類¶
 眾生，遠塵離垢，得清淨法眼；五百比丘於¶
@@ -333,4 +332,4 @@ No.471[No.470]¶
 佛說是經已，文殊尸利童子、¶
 尊者舍利弗等五百比丘，天龍八部、諸鬼神¶
 等，聞佛所說歡喜奉行。¶
-佛說文殊尸利經
+佛說文殊尸利經次行＋（豆那掘多譯本）六字【宋】【宮】經經
